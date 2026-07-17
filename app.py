@@ -47,5 +47,4 @@ if st.button("predict"):
         else:
            st.success("✅ Prediction: True News")
 
-     
-
+        
